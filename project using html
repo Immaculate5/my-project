@@ -39,5 +39,67 @@
         </ul>
     </section>
 
+    <section>
+        <h2>Project Schedule</h2>
+        <ul>
+            <li><strong>PHASE 1:</strong> Requirements gathering and design (4 months)</li>
+            <li><strong>PHASE 2:</strong> Add development and testing (3 months)</li>
+            <li><strong>PHASE 3:</strong> Deployment and marketing (2 months)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Resource Management</h2>
+        <ul>
+            <li><strong>App Development Team:</strong> 2 Software Developers, 1 UX/UI Designer</li>
+            <li><strong>Marketing Team:</strong> 1 Marketing Manager, 1 Social Media Specialist</li>
+            <li><strong>Budget:</strong> $70,000</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Communication Plan</h2>
+        <ul>
+            <li>Weekly team meeting to discuss progress, challenges, and decision-making.</li>
+            <li>Bi-weekly stakeholders meetings to review project status and obtain feedback.</li>
+            <li>Social media updates and email campaigns to promote the app's launch.</li>
+            <li>Risk assessment and management.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Progress Tracking and Performance Monitoring</h2>
+        <ul>
+            <li>Track task completion using project management software.</li>
+            <li>Monitor app usage metrics to assess management.</li>
+            <li>Analyze customer feedback to identify areas for improvement.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Changes and Adaptations</h2>
+        <ul>
+            <li>Establish a change request process that involves all stakeholders.</li>
+            <li>Evaluate the impact of changes on project scope, timeline, and resources.</li>
+            <li>Adapt the project plan to accommodate approved changes.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Project Evaluation and Reflection</h2>
+        <ul>
+            <li>Assess the app's impact on the transport company's sales and customer engagement.</li>
+            <li>Gather feedback from stakeholders and team members to identify areas for improvement.</li>
+            <li>Document lessons learned to inform future mobile app development projects.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Finally, register the business and get the documentation.</p>
+    </footer>
+</body>
+</html>
+
+
 </body>
 </html>
