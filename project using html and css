@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transportation App Project Plan</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Transportation App Project Plan</h1>
+    </header>
+
+    <section>
+        <h2>Goals and Objectives</h2>
+        <ul>
+            <li>Create a user-friendly mobile app for local transportation.</li>
+            <li>Increase customer engagement by providing affordable fees.</li>
+            <li>Gather customer feedback and improve the app's features over time.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Stakeholders</h2>
+        <ul>
+            <li>App development team</li>
+            <li>Marketing team</li>
+            <li>Customers database</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Scope and Deliverables</h2>
+        <ul>
+            <li>Develop a transport app with features including online ordering, price browsing, customer reviews, and loyalty rewards.</li>
+            <li>Ensure the app is compatible with iOS and Android devices.</li>
+            <li>Launch the app within nine months of project initiation.</li>
+        </ul>
+    </section>
+
+</body>
+</html>
